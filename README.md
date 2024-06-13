@@ -50,6 +50,9 @@ Tutorial on Pycaret for Regression, Classification and Clustering <a href="https
 
 <img src="https://github.com/psrana/Assingment-Multi-Threading/assets/7460892/69f331af-b987-48f3-967f-92359243bfbd" width="60%" height="60%">
 
+<img src="<img width="959" alt="image" src="https://github.com/Naman-Singh-777/Read-Me-Phile/assets/142827831/e132efc2-a2bf-4085-bce8-3c4d9f6906c3">
+" width="60%" height="60%">
+
 # **Title: Facial Expression Recognition**
 
 
